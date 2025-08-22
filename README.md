@@ -1,6 +1,8 @@
-# Restaurant Management Frontend
+# Santhuriya Restaurant Management Frontend
 
 React-based frontend for the Restaurant Concession & Order Scheduling System.
+
+<img width="741" height="486" alt="front operation man" src="https://github.com/user-attachments/assets/540b0544-09bc-42fa-a954-081d773ed487" />
 
 ## Features
 
